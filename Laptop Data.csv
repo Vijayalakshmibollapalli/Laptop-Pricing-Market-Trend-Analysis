@@ -1,0 +1,985 @@
+Brand,Processor,OS,RAM,RAM_Type,SSD,Display,Selling_Price,Original_Price,Discount_on_OriginalPrice,Rating
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,14,"40,990","50,990",19,4.3
+Lenovo,MediaTek Kompanio 520,Chrome,4,LPDDR4X,,11.6,"14,999","16,298",7,4
+Acer,Intel Core i3,64 bit Windows 11 Home,8,DDR4,512 GB,15.6,"38,938","42,990",9,4
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+ASUS,AMD Ryzen 5 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,15.6,"38,990","50,990",23,4.3
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"40,990","50,990",19,4.3
+Acer,AMD Ryzen 7 Octa Core,Windows 11,16,DDR4,512 GB,15.6,"46,990","72,999",35,4.1
+ASUS,AMD Ryzen 3 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,15.6,"35,990","43,990",18,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+HP,Intel Celeron Dual Core,Windows 11 Home,8,DDR4,512 GB,14,"29,990","31,933",6,3.7
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4X,,14,"19,714","23,900",17,3.8
+HP,Intel Core i5,Windows 11 Home,12,DDR4,512 GB,15.6,"51,990","68,417",24,4.2
+ASUS,AMD Ryzen 5 Quad Core,Windows 11 Home,16,LPDDR5,512 GB,15.6,"44,590","55,990",20,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+Acer,Intel Celeron Dual Core,64 bit Windows 11 Home,8,DDR4,512 GB,11.6,"25,990","35,999",27,3.8
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4X,,14,"18,799","21,990",14,3.8
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+Lenovo,AMD Ryzen 5 Hexa Core,Windows 11 Home,16,DDR4,512 GB,15.6,"42,990","59,090",27,4.6
+Samsung,Intel Core i5,Windows 11,16,LPDDR4X,512 GB,15.6,"59,990","82,789",27,4.4
+Acer,Intel Core i3,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"40,990","70,990",42,4.1
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11,16,LPDDR4X,1 TB,13.3,"75,199","1,21,690",38,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Intel Core 3,Windows 11,8,DDR4,512 GB,15,"46,990","48,868",3,4.3
+Acer,Intel Pentium Quad Core,Windows 11,8,DDR4,512 GB,14,"31,990","43,999",27,4.1
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"49,855","59,990",16,4.3
+ASUS,Intel Core i7,Windows 11 Home,32,DDR5,1 TB,14,"92,990","1,19,990",22,4.4
+Acer,AMD Ryzen 5,64 bit Windows 11 Home,8,DDR4,512 GB,14,"36,990","52,999",30,3.9
+HP,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"40,980","50,903",19,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Acer,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR4,512 GB,15.6,"43,990","59,990",26,4.1
+ASUS,Intel Core i7,Windows 11 Home,32,DDR5,512 GB,14,"83,990","1,29,990",35,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+DELL,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"42,990","54,479",21,4.2
+Acer,Intel Core i5,Windows 11,16,DDR4,1 TB,14,"52,990","64,990",18,4.3
+ASUS,Intel Core i3,Windows 11 Home,8,DDR5,512 GB,15.6,"47,990","69,990",31,4.3
+HP,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"40,990","50,903",19,4.2
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Acer,Intel Celeron Dual Core,64 bit Windows 11 Home,8,DDR4,256 GB,11.6,"28,492","29,999",5,3.8
+Acer,Intel Celeron Dual Core,Windows 11 Home,8,LPDDR4X,512 GB,15.6,"33,990","39,990",15,3.9
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,15.6,"54,938","78,590",30,4.2
+ASUS,Intel Core 5,Windows 11 Home,16,DDR4,512 GB,15.6,"51,499","64,999",20,4.3
+ASUS,AMD Ryzen 7 Hexa Core,Windows 11 Home,16,DDR5,512 GB,15.6,"66,990","83,990",20,4.4
+ASUS,AMD Ryzen 3 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,14,"35,990","43,990",18,4.2
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+HP,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"99,990","1,20,928",17,4.5
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4X,,15.6,"16,990","19,990",15,3.9
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Samsung,Intel Core i7,Windows 11,16,LPDDR4X,512 GB,15.6,"69,990","89,689",21,4.4
+ASUS,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"45,990","56,990",19,4.3
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,1 TB,14,"56,699","78,590",27,4.2
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"30,990","54,990",43,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,AMD Ryzen 5 Quad Core,32 bit Windows 11 Home,8,DDR4,512 GB,14,"38,750","59,980",35,4.1
+Lenovo,AMD Ryzen 3 Quad Core,Windows 11,8,DDR4,512 GB,14,"37,899","85,371",55,4.2
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Acer,Intel Pentium Quad Core,Windows 11,16,DDR4,512 GB,14,"34,990","35,990",2,4.1
+Lenovo,Intel Pentium Quad Core,Chrome,4,LPDDR5,,14,"17,990","36,690",50,3.6
+Lenovo,MediaTek MediaTek Kompanio 528,Chrome,4,LPDDR4X,,11.6,"15,690","34,888",55,3.9
+Primebook,MediaTek Helio G99 (MT8781),64 bit Android,8,LPDDR4X,,15.6,"29,990","34,990",14,4.4
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,AMD Ryzen 5 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,15.6,"38,990","50,990",23,4.3
+Acer,Intel Core Ultra 7,64 bit Windows 11 Home,32,LPDDR5,1 TB,14,"73,990","99,999",26,4.1
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+HP,Intel Core i7,Windows 11 Home,16,DDR4,512 GB,15.6,"72,990","77,507",5,4.3
+Acer,Intel Core i3,Windows 11,8,DDR4,512 GB,14,"37,990","49,999",24,4.3
+HP,AMD Ryzen 5 Quad Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"39,990","55,691",28,4.1
+Acer,AMD Ryzen 7 Octa Core,64 bit Windows 11,16,DDR4,1 TB,15.6,"49,938","68,999",27,4.1
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,Intel Core i3,Windows 11 Home,16,DDR5,512 GB,15.6,"51,990","74,990",30,4.3
+ASUS,AMD Ryzen 5 Quad Core,Windows 11 Home,16,LPDDR5,512 GB,14,"42,990","52,990",18,4.2
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Ultimus,Intel Pentium Quad Core,64 bit Windows 11 Home,8,DDR3,256 GB,14.1,"18,942","35,990",47,
+Lenovo,Intel Core i7,Windows 11,16,LPDDR5X,1 TB,14,"69,990","1,37,090",48,3.3
+ASUS,Intel Core i7,Windows 11 Home,16,DDR5,512 GB,14,"66,990","98,990",32,4.5
+DELL,Intel Core 3,64 bit Windows 11 Home,8,DDR5,512 GB,14,"37,990","70,990",46,4
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Lenovo,MediaTek Kompanio 520,Chrome,8,LPDDR4X,,11.6,"22,490","39,220",42,4
+ASUS,Intel Core 5,Windows 11 Home,16,DDR5,512 GB,16,"86,990","1,07,990",19,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+DELL,AMD Ryzen 7 Octa Core,Windows 11,16,DDR4,512 GB,15,"52,990","66,920",20,3.9
+ASUS,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"46,990","54,990",14,4.3
+HP,Intel Core i5,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,999","92,746",34,4.3
+Acer,Intel Celeron Dual Core,Windows 11,12,LPDDR4X,256 GB,14,"29,990","29,999",,3.9
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"75,990","93,021",18,4.2
+MSI,Intel Core i3,Windows 11,16,DDR4,512 GB,14,"40,382","47,990",15,4.4
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Lenovo,AMD Ryzen Z1 Extreme,Windows 11 Home,16,LPDDR5X,512 GB,8.8,"69,990","1,25,890",44,4.4
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,DDR5,512 GB,14,"72,990","98,990",26,4.3
+ASUS,Intel Core i3,Windows 11 Home,16,DDR5,512 GB,14,"51,990","74,990",30,4.3
+Lenovo,Intel Core i5,Windows 11 Home,16,DDR5,512 GB,,"59,977","81,390",26,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Lenovo,AMD Ryzen 5 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"41,990","65,690",36,4.1
+Acer,AMD Ryzen 3 Quad Core,Windows 11,16,DDR4,512 GB,15.6,"36,855","59,999",38,3.9
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,16,LPDDR5X,512 GB,13.3,"67,990","79,890",14,4.1
+Lenovo,Intel Core i3,64 bit Windows 11 Home,16,DDR4,512 GB,14,"43,990","74,990",41,4.3
+ASUS,AMD Ryzen 5 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,15.6,"38,990","50,990",23,4.3
+Acer,AMD Ryzen 5 Hexa Core,Windows 11,8,DDR4,512 GB,15.6,"38,938","56,990",31,4.1
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+MOTOROLA,Intel Core 7 (Series 2),64 bit Windows 11,16,DDR5,512 GB,14,"60,990","1,04,890",41,4.4
+Acer,Intel Core i5,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"87,990","1,14,999",23,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core 3,64 bit Windows 11 Home,8,DDR5,512 GB,14,"37,990","70,990",46,4
+Acer,Intel Core i3,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"39,990","46,990",14,4.2
+Infinix,Intel Core i7,64 bit Windows 11,16,LPDDR4X,512 GB,15.6,"45,490","69,990",35,4.8
+ASUS,AMD Ryzen 7 Hexa Core,Windows 11 Home,16,DDR5,1 TB,15.6,"72,990","87,990",17,4.4
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Lenovo,AMD Ryzen 5 Hexa Core,Windows 11 Home,16,DDR4,512 GB,15.6,"42,990","59,090",27,4.6
+ASUS,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR5,512 GB,15.6,"57,990","79,990",27,4.4
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Colorful,Intel Core i7,64 bit Windows 11,16,DDR5,512 GB,15.6,"77,999","1,19,999",35,4.2
+MOTOROLA,Intel Core 7 (Series 2),64 bit Windows 11,16,DDR5,512 GB,14,"60,990","1,04,890",41,4.4
+ASUS,Intel Core i3,64 bit Windows 11,8,DDR4,256 GB,14,"35,990","50,990",29,4.3
+Lenovo,Intel Pentium Quad Core,Chrome,4,LPDDR5,,14,"17,990","36,690",50,3.6
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Intel Core 3,Windows 11,8,DDR4,512 GB,15,"46,990","48,868",3,4.3
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"40,990","50,990",19,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Acer,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,14,"29,990","43,000",30,4.2
+Lenovo,Intel Core i3,Windows 11 Home,8,LPDDR5,512 GB,15.6,"43,990","49,990",12,4.4
+Acer,AMD Ryzen 5 Hexa Core,Windows 11,16,LPDDR4X,512 GB,14,"44,990","69,999",35,4.4
+Acer,AMD Ryzen 7 Octa Core,Windows 11,16,LPDDR4X,512 GB,14,"49,990","79,999",37,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Acer,Intel Core Ultra 5,64 bit Windows 11 Home,16,LPDDR5,512 GB,14,"62,999","84,999",25,4.2
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,17.3,"50,990","85,990",40,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Acer,Intel Core i9,Windows 11,32,DDR5,1 TB,16,"2,56,999",,,4.4
+ASUS,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"45,990","56,990",19,4.3
+HP,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,15.6,"73,490","87,262",15,4.2
+ASUS,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"46,990","54,990",14,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,Intel Core i5,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,999","92,746",34,4.3
+HP,Intel Celeron Dual Core,64 bit Chrome,4,LPDDR4,,14,"23,800","32,295",26,3.9
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,Intel Core 5,Windows 11 Home,16,DDR5,512 GB,16,"74,990","88,990",15,
+DELL,Intel Core 7,Windows 11,16,DDR5,1 TB,16,"1,19,990","1,51,875",20,4
+Primebook,MediaTek MT8183,Android,4,LPDDR4,,11.6,"17,399","17,990",3,4.2
+Apple,Apple M3 Max,Mac OS,36,Unified Memory,1 TB,16,"3,30,990","3,49,900",5,
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Acer,Intel Core i3,Chrome,8,LPDDR5,256 GB,14,"49,999",,,3.9
+Apple,Apple M5,Mac OS,16,Unified Memory,512 GB,14,"1,60,990","1,69,900",5,
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Acer,Intel Core i7,Windows 11,16,DDR5,1 TB,16,"1,04,990","1,42,999",26,4.4
+HP,AMD Ryzen 3 Quad Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"37,800","60,990",38,4.1
+HP,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,15.6,"64,990","69,023",5,
+Lenovo,Intel Core i5,Windows 11,8,LPDDR5,512 GB,15.6,"48,990","69,190",29,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Apple,Apple M3 Max,Mac OS,36,Unified Memory,1 TB,14,"3,02,990","3,19,900",5,
+Acer,AMD Ryzen 5,64 bit Windows 11 Home,8,DDR4,512 GB,14,"36,990","52,999",30,3.9
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Acer,Intel Core i5,Windows 11 Home,16,LPDDR5,512 GB,15.6,"54,990","59,990",8,4.1
+HP,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"61,490","75,059",18,4.2
+DELL,Intel Core i3,64 bit Windows 11,8,DDR5,512 GB,14,"37,990","70,990",46,4.2
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,16,DDR4,512 GB,15.6,"49,990","72,690",31,
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+HP,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"54,990","72,718",24,4.3
+Apple,Apple M4,Mac OS,24,Unified Memory,1 TB,14,"1,98,990","2,09,900",5,4.7
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+HP,AMD Ryzen 5 Hexa Core,64 bit Windows 11,8,DDR5,512 GB,15.6,"38,999","60,000",35,3.7
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"79,990","1,16,990",31,4.4
+Lenovo,Intel Celeron Dual Core,Chrome,8,LPDDR4X,,15.6,"20,990","30,790",31,3.6
+Apple,Apple M3 Pro,Mac OS,18,Unified Memory,512 GB,14,"1,89,900",,,4.9
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,15.6,"52,490","76,990",31,4.1
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4X,,14,"18,799","21,990",14,3.8
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Core Ultra 9,Windows 11,16,LPDDR5X,1 TB,15.6,"1,10,990","1,52,990",27,4.5
+Apple,Apple M4,Mac OS,16,Unified Memory,512 GB,14,"1,60,990","1,69,900",5,4.9
+HP,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"48,990","62,526",21,4.3
+Acer,Intel Core i5,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"50,990","84,990",40,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"39,990","69,990",42,4.2
+Acer,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"52,990","84,999",37,4.2
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Infinix,Intel Core i5,64 bit Windows 11,16,LPDDR4X,512 GB,14,"49,990","69,990",28,4.5
+HP,Intel Core i7,64 bit Windows 11,16,DDR4,512 GB,15.6,"64,990","79,990",18,4.1
+Apple,Apple M4 Pro,Mac OS,24,Unified Memory,1 TB,14,"2,26,990","2,39,900",5,
+Infinix,Intel Core i7,Windows 11,8,LPDDR4X,512 GB,14,"39,990","64,990",38,
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Acer,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"49,990","84,999",41,4.3
+ASUS,AMD Ryzen AI Max+,Windows 11 Home,32,LPDDR5X,1 TB,14,"1,79,990","2,15,990",16,
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Apple,Apple M3,Mac OS,16,Unified Memory,256 GB,13.6,"90,590","1,14,900",21,4.6
+Primebook,MediaTek MT8183,Android,4,LPDDR4,,11.6,"14,990","20,990",28,4.1
+HP,Intel Core Ultra 7,Windows 11 Home,24,DDR5,1 TB,14,"84,990","88,415",3,
+ASUS,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,16,"66,990","89,990",25,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+ASUS,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"56,990","81,990",30,4.4
+ASUS,Intel Core 5,Windows 11 Home,16,DDR4,512 GB,16,"68,990","95,990",28,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Acer,Intel Core i5,Windows 11 Home,12,LPDDR5,512 GB,15.6,"54,990","59,990",8,4.1
+Apple,Apple M3,Mac OS,8,Unified Memory,256 GB,13,"99,990","1,14,900",12,4.6
+Samsung,Intel Core i7,Windows 11,16,DDR4X,1 TB,13.3,"1,33,990","1,47,926",9,4.3
+Apple,Apple M4 Pro,Mac OS,24,Unified Memory,1 TB,14,"2,26,990","2,39,900",5,
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Acer,Intel Core i3,Windows 11,16,DDR4,512 GB,14,"41,490","44,999",7,4.3
+ZEBRONICS,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"60,999",,,4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Apple,Apple M3,Mac OS,16,Unified Memory,512 GB,13,"1,34,900",,,4.7
+ASUS,AMD Ryzen 3 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"35,990","50,990",29,4.2
+HP,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"39,590","50,903",22,4.1
+HP,AMD Ryzen 5 Quad Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"39,990","55,691",28,4.1
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Acer,AMD Ryzen 3 Quad Core,Windows 11,8,DDR4,512 GB,15.6,"33,299","44,990",25,4.1
+Ultimus,Intel Pentium Quad Core,64 bit Windows 11 Home,8,DDR3,256 GB,14.1,"18,942","35,990",47,
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+ASUS,Intel Core Ultra 7,Windows 11,32,LPDDR5X,1 TB,14,"1,39,990","2,42,990",42,4.8
+Lenovo,Intel Core Ultra 9,Windows 11 Home,32,LPDDR5X,1 TB,14,"1,34,990","1,67,890",19,4.4
+Samsung,Intel Core i7,Windows 11,16,DDR4X,512 GB,15.6,"1,09,199","1,53,990",29,4.6
+Apple,Apple M3,Mac OS,8,Unified Memory,1 TB,14,"1,19,990","1,69,900",29,3.6
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Acer,Intel Core Ultra 5,64 bit Windows 11 Home,16,LPDDR5,512 GB,14,"59,990","99,999",40,4.2
+Lenovo,Intel Core i7,Windows 11 Home,16,DDR5,512 GB,15.6,"82,990","1,09,990",24,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core 5,64 bit Windows 11 Home,32,DDR5,512 GB,15.6,"71,990","1,14,990",37,
+ASUS,AMD Ryzen 9 16 Core,Windows 11 Home,16,DDR5,1 TB,16,"1,54,990","1,73,990",10,
+HP,AMD Ryzen AI 5 Hexa Core,Windows 11,16,LPDDR5X,512 GB,13.3,"76,990","96,137",19,4.3
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"43,990","74,990",41,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR4,512 GB,15.6,"44,590","83,238",46,4.2
+MSI,Intel Core i3,Windows 11,16,DDR4,512 GB,14,"40,382","47,990",15,4.4
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+MSI,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR4,512 GB,14,"42,990","66,990",35,4.3
+Apple,Apple M4,Mac OS,16,Unified Memory,256 GB,13.6,"95,990","99,900",3,4.7
+HP,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,15.6,"64,990","75,142",13,4.2
+MSI,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"49,990","70,990",29,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+DELL,Intel Core i3,64 bit Windows 11 Home,16,DDR5,512 GB,14,"44,750","68,990",35,3.6
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Acer,Intel Core i3,Windows 11,16,DDR4,1 TB,15.6,"43,990","49,990",12,4.1
+Lenovo,Intel Core i5,Windows 11,8,LPDDR5,512 GB,14,"44,999","66,090",31,4.2
+Apple,Apple M2,Mac OS,16,Unified Memory,256 GB,13.6,"85,900",,,4.6
+MSI,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"75,990",,,4.4
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core 5,Windows 11,16,DDR4,512 GB,15.6,"57,290","73,990",22,4
+MSI,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"86,990",,,4.4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+HP,Intel Core i5,Windows 11 Home,24,DDR5,512 GB,15.6,"89,990","1,05,442",14,4.3
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,14,"63,990","73,990",13,4.1
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,DDR5,1 TB,14,"68,990","74,990",8,4.3
+HP,Intel Core Ultra 7,Windows 11 Home,16,DDR5,512 GB,14,"70,099","95,687",26,4.1
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+MSI,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"79,990","89,990",11,4.4
+MSI,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,14,"52,990","73,990",28,4.2
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+DELL,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"68,990","73,911",6,4.3
+HP,Intel Core 3,Windows 11,8,DDR4,512 GB,15.6,"54,552",,,4.5
+Lenovo,AMD Ryzen 5 Hexa Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"39,890","57,890",31,4.2
+Acer,Intel Core i5,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"66,990","92,990",27,
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,14,"69,890",,,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Infinix,Intel Core i9,Windows 11,16,LPDDR5,512 GB,15.6,"74,990","1,29,990",42,4.1
+MICROSOFT,Snapdragon X Plus,64 bit Windows 11,16,LPDDR5X,512 GB,12,"1,08,990","1,18,198",7,
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+MSI,Intel Core i7,Windows 11,16,DDR4,1 TB,15.6,"89,990",,,4.4
+ASUS,Intel Core i3,64 bit Windows 11,8,DDR4,256 GB,15.6,"28,990","44,990",35,4.3
+Acer,Intel Celeron Dual Core,Windows 11 Home,8,LPDDR4X,512 GB,15.6,"33,990","39,990",15,3.9
+MSI,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"59,490","82,990",28,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Apple,Apple M4,Mac OS,24,Unified Memory,512 GB,13.6,"1,32,990","1,39,900",4,4.7
+Lenovo,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,15.3,"54,990","82,890",33,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,AMD Ryzen 5 Quad Core,64 bit Windows 11 Home,16,LPDDR5,512 GB,15.6,"46,990","70,990",33,5
+Acer,Intel Celeron Dual Core,Windows 11,8,LPDDR4X,512 GB,15.6,"29,100","33,990",14,3.8
+ASUS,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,16,"64,990","98,990",34,4.5
+Acer,Intel Core i3,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"40,990","70,990",42,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Infinix,Intel Core i7,Windows 11,16,LPDDR5X,512 GB,15.3,"69,990","99,990",30,4.1
+Avita,Intel Celeron Dual Core,64 bit Windows 11,4,DDR4,128 GB,14.1,"14,989","29,990",50,3.6
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,AMD Ryzen 5 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"37,990","66,990",43,4.2
+Lenovo,Intel Core i5,64 bit Windows 11 Home,8,DDR4,512 GB,14,"49,490","88,990",44,
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,15.6,"54,938","78,590",30,4.2
+ASUS,Intel Core i7,Windows 11 Home,16,DDR4,512 GB,15.6,"62,390","85,999",27,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,Intel Core i5,Windows 11 Home,16,DDR5,512 GB,15.6,"79,199","85,290",7,4
+DELL,Intel Core 3,64 bit Windows 11,8,DDR5,512 GB,14,"37,999","85,000",55,
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+GIGABYTE,Intel Core i7,Windows 11,16,DDR5,512 GB,16,"89,990","1,59,000",43,4.4
+ASUS,AMD Ryzen 3 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"30,990","50,990",39,4.3
+HP,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,15.6,"54,990","83,705",34,3.8
+Acer,Intel Core i7,64 bit Windows 11 Home,16,DDR5,512 GB,16,"94,999","1,13,899",16,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Acer,Intel Celeron Dual Core,Windows 11,8,LPDDR4X,256 GB,15.6,"29,990","39,990",25,3.9
+Lenovo,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,16,"73,990","90,890",18,
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5X,1 TB,14,"79,690","1,14,690",30,4.5
+HP,Intel Core i5,Windows 11,16,LPDDR5,512 GB,15.6,"70,000","99,004",29,4.3
+Acer,Intel Core i5,64 bit Windows 11 Home,16,LPDDR5,1 TB,15.6,"55,990","65,990",15,4.1
+Lenovo,Intel Core i5,Windows 11,16,DDR4,512 GB,14,"64,990","1,18,990",45,3.6
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core 5,Windows 11 Home,16,DDR5,512 GB,16,"69,990","88,990",21,
+HP,AMD Ryzen 5 Hexa Core,Windows 11,8,DDR4,512 GB,15.6,"44,990","61,887",27,3.8
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+HP,AMD Athlon Dual Core,64 bit Windows 11,8,LPDDR5,256 GB,15.6,"35,999","45,999",21,4
+Acer,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"48,954","69,999",30,3.9
+Acer,AMD Ryzen 3 Quad Core,Windows 11,8,DDR4,256 GB,15.6,"39,773","49,999",20,4.2
+ASUS,AMD Ryzen AI 9 12 Core,Windows 11 Home,32,LPDDR5X,2 TB,14,"2,79,990","2,99,990",6,4.7
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+DELL,Intel Core i3,64 bit Windows 11 Home,8,DDR5,512 GB,14,"37,990","65,990",42,4
+ASUS,AMD Ryzen 3 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,14,"35,990","43,990",18,4.2
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"30,990","54,990",43,4.3
+ASUS,AMD Ryzen 5 Quad Core,Windows 11 Home,8,LPDDR5,512 GB,15.6,"38,990","48,990",20,4.3
+Apple,Apple M4,Mac OS,16,Unified Memory,256 GB,15.3,"1,18,990","1,24,900",4,4.7
+Infinix,Intel Core i5,Windows 11,16,LPDDR5X,512 GB,15.6,"63,990","79,990",20,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+MSI,Intel Core i3,Windows 11,8,DDR4,512 GB,14,"42,990","47,990",10,4.2
+Acer,Intel Core i5,Windows 11,16,DDR4,1 TB,15.6,"52,909","59,990",11,3.9
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Acer,Intel Core i5,64 bit Windows 11 Home,16,DDR5,512 GB,16,"84,999","1,02,799",17,4.2
+Lenovo,AMD Ryzen 5 Quad Core,Windows 11,24,DDR5,512 GB,15.6,"76,498","89,990",14,4.4
+HP,Intel Core i5,Windows 11,16,LPDDR5X,512 GB,16,"60,990","82,575",26,4.5
+MSI,AMD Ryzen 5 Hexa Core,Windows 11,8,DDR4,512 GB,14,"47,590","64,990",26,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,Intel Core i7,Windows 11,16,DDR5,512 GB,15.3,"72,990","89,390",18,
+ASUS,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"49,855","59,990",16,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+DELL,AMD Ryzen 5 Quad Core,64 bit Windows 11,8,LPDDR5,512 GB,15.6,"39,750","64,990",38,
+Lenovo,Intel Core i7,Windows 11,16,LPDDR5,1 TB,16,"79,990","1,25,890",36,4.2
+ASUS,AMD Ryzen 5 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"40,990","74,990",45,4.4
+HP,AMD Ryzen 5 Quad Core,64 bit Windows 11,16,LPDDR5,512 GB,15.6,"46,990","70,990",33,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+DELL,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"68,990","73,911",6,4.3
+HP,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"38,490","44,990",14,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+HP,Intel Core i5,Windows 11,16,LPDDR5,512 GB,15.6,"74,999","1,10,245",31,4.3
+HP,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,15.6,"37,490","47,553",21,4.1
+ASUS,Intel Core i7,Windows 11 Home,16,DDR5,512 GB,14,"66,990","98,990",32,4.5
+MSI,Intel Core 7,64 bit Windows 11,16,DDR5,1 TB,15.6,"1,02,990","1,16,990",11,
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+DELL,Intel Core i3,64 bit Windows 11,16,DDR5,512 GB,14,"45,990","70,990",35,4.3
+Acer,AMD Ryzen 3 Quad Core,Windows 11,16,DDR4,512 GB,15.6,"36,855","59,999",38,3.9
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,Intel Core i7,Windows 11,16,LPDDR5X,1 TB,14,"69,990","1,37,090",48,3.3
+Acer,AMD Ryzen 7 Octa Core,Windows 11 Home,16,DDR4,512 GB,15.6,"44,990","59,999",25,
+ASUS,AMD Ryzen 3 Quad Core,Windows 11 Home,16,LPDDR5,512 GB,15.6,"35,990","37,990",5,4.2
+ASUS,AMD Ryzen 3 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"41,990","61,990",32,4.4
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4X,,15.6,"21,399","32,990",35,3.8
+MSI,Intel Core i7,Windows 11,32,DDR5,1 TB,16,"1,72,990","1,93,990",10,4.5
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Acer,Intel Core Ultra 5,64 bit Windows 11 Home,16,LPDDR5,512 GB,14,"59,990","94,990",36,4.2
+ASUS,Intel Core i7,Windows 11 Home,32,DDR5,1 TB,14,"92,990","1,19,990",22,4.4
+MSI,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR5,512 GB,15.6,"61,990","78,990",21,4.4
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11,24,DDR5,512 GB,15.6,"1,03,290","1,27,990",19,4.5
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+HP,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,15.6,"32,990","51,134",35,4.2
+Acer,AMD Ryzen 3 Quad Core,Windows 11,16,DDR4,512 GB,15.6,"35,990","50,990",29,4.1
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Apple,Apple M3,Mac OS,8,Unified Memory,512 GB,14,"1,42,990","1,69,900",15,4.1
+HP,AMD Ryzen AI 5 Hexa Core,Windows 11 Home,16,DDR5,512 GB,15.6,"62,990","76,295",17,4.4
+ASUS,Intel Core i7,Windows 11,16,DDR4,512 GB,16,"65,990","79,999",17,4.3
+HP,AMD Ryzen 5 Hexa Core,64 bit Windows 11,16,DDR4,512 GB,15.6,"47,900","62,153",22,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+MSI,Intel Core i3,64 bit Windows 11,16,DDR4,512 GB,14,"44,990","58,990",23,4.4
+DELL,Intel Core 3,64 bit Windows 11,8,DDR5,512 GB,15.6,"38,390","49,400",22,3.8
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Lenovo,Intel Core Ultra 7,Windows 11,32,LPDDR5X,1 TB,14,"99,990","1,46,890",31,4.2
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,1 TB,14,"1,04,990","1,35,990",22,4.9
+MSI,Intel Core i7,Windows 11,16,DDR5,1 TB,16,"1,62,990",,,4.7
+HP,AMD Ryzen 5 Quad Core,32 bit Windows 11 Home,8,DDR4,512 GB,14,"38,750","59,980",35,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+HP,Intel Core i5,64 bit Windows 10,8,DDR4,1 TB,15.6,"59,297","59,999",1,4.4
+DELL,Intel Core i5,64 bit Windows 11,8,LPDDR5,512 GB,14,"59,990","68,089",11,4
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"46,990","54,990",14,5
+HP,AMD Ryzen 9 16 Core,Windows 11 Home,24,DDR5,1 TB,16,"1,58,990","1,74,237",8,
+HP,Intel Pentium Quad Core,Windows 11,8,DDR4,512 GB,15.6,"38,990","39,999",2,
+MSI,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR5,512 GB,15.6,"65,990","72,990",9,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"76,990","1,01,090",23,4.4
+Lenovo,AMD Ryzen 5 Quad Core,Windows 11,12,DDR5,512 GB,15.6,"69,000","89,890",23,4.4
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Acer,Intel Core i7,Windows 11,16,DDR5,1 TB,16,"1,46,999","1,98,999",26,4.4
+Ultimus,Intel Dual Core,64 bit Windows 11 Home,4,DDR4,,14.1,"14,240","24,990",43,3.6
+MSI,AMD Ryzen 5 Hexa Core,Windows 11,8,DDR4,512 GB,14,"38,990","61,990",37,4.4
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"53,780","65,654",18,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,MediaTek MT8183,Chrome,4,LPDDR4X,,11.6,"17,399","34,999",50,3.7
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"55,991","75,990",26,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Acer,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"38,990","49,990",22,4.2
+HP,Intel Core i3,Windows 11,16,DDR4,512 GB,15.6,"43,442","49,990",13,4.2
+HP,AMD Ryzen 3 Dual Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"38,890","47,990",18,4.1
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,DDR5,512 GB,14,"65,990","92,990",29,4.4
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Acer,Intel Core 5,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"84,990","84,999",,4.4
+Lenovo,AMD Ryzen 5 Hexa Core,Windows 11,8,DDR4,512 GB,15.6,"54,799","68,400",19,2.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,Intel Core i3,Windows 11 Home,16,DDR5,512 GB,15.6,"46,990","54,990",14,4.2
+Lenovo,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"94,990","1,09,990",13,4.4
+ASUS,Intel Core i5,Windows 11 Home,16,DDR5,512 GB,14,"56,990","90,990",37,4.4
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"55,989","69,999",20,
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Lenovo,Intel Core i7,Windows 11 Home,16,DDR5,512 GB,15.6,"1,17,990","1,31,290",10,4.3
+ASUS,AMD Ryzen 5 Quad Core,Windows 11,16,LPDDR5,512 GB,15.6,"48,999","68,999",28,3.9
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,14,"68,990","88,990",22,4.1
+HP,AMD Ryzen 7 Hexa Core,Windows 11,16,DDR5,1 TB,15.6,"72,990","82,302",11,4.4
+ASUS,Intel Core i7,Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.3
+Acer,Intel Core i9,Windows 11,16,DDR5,1 TB,16,"1,64,990","1,99,990",17,4.3
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Intel Core i3,64 bit Windows 11 Home,8,LPDDR5X,512 GB,14,"37,900","55,500",31,3.9
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"53,490","70,171",23,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"57,224","72,990",21,4.2
+Lenovo,Intel Core Ultra 9,Windows 11,32,LPDDR5,1 TB,14,"1,07,990","1,58,090",31,
+ASUS,AMD Ryzen 5 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"46,990","74,990",37,4.4
+Acer,Intel Core i5,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"54,126","80,900",33,4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,AMD Ryzen 9 Octa Core,Windows 11,32,LPDDR5,1 TB,13.4,"1,32,990","2,03,990",34,3.7
+Lenovo,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,1 TB,14,"83,990","1,20,290",30,4
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,Intel Core i5,Windows 11 Home,12,DDR4,512 GB,15.6,"69,121","69,999",1,
+ASUS,AMD Ryzen 9 16 Core,Windows 11 Home,16,DDR5,1 TB,16,"1,84,990","2,03,990",9,4.6
+HP,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,15.6,"37,999","46,601",18,4.2
+Lenovo,Intel Core i7,Windows 11,16,LPDDR5,512 GB,16,"74,799","1,21,790",38,4.1
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5,512 GB,16,"83,490","1,01,999",18,4.3
+Lenovo,Intel Core i5,Windows 11 Home,16,DDR5,512 GB,14,"62,990","82,690",23,4.4
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Intel Core 3,64 bit Windows 11,8,DDR5,512 GB,15.6,"42,598","64,990",34,
+HP,Intel Core i3,Windows 11,8,DDR4,512 GB,14,"64,790","69,990",7,4.5
+ASUS,Intel Celeron Dual Core,Chrome,8,LPDDR4X,,15.6,"42,990",,,4.6
+Lenovo,Intel Core i5,Windows 11 Home,12,DDR5,512 GB,15.6,"69,900","85,000",17,4.2
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+DELL,Intel Core i5,Windows 11,8,DDR5,512 GB,14,"59,490","67,150",11,4.8
+HP,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,15.6,"60,490","67,811",10,
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,14,"53,990","95,990",43,
+Lenovo,Intel Core i5,64 bit Windows 10,4,DDR4,,15.6,"42,990","61,490",30,3.6
+MSI,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"60,990","78,990",22,4.2
+Acer,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR5,512 GB,15.6,"63,699","85,999",25,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Core i5,64 bit Windows 11 Home,16,LPDDR5,512 GB,15.6,"67,990","85,990",20,4.6
+HP,Intel Core 7,Windows 11 Home,24,DDR5,1 TB,15.6,"1,12,990","1,24,319",9,
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"50,990","70,841",28,4.2
+Lenovo,MediaTek Kompanio 520,Chrome,4,LPDDR4X,,14,"18,990","29,999",36,
+HP,Intel Core i7,Windows 11,16,DDR5,512 GB,16.1,"97,990","1,27,990",23,4.2
+HP,Intel Celeron Dual Core,64 bit Chrome,4,LPDDR4,,14,"28,490","32,295",11,3.9
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Acer,Intel Core i5,Windows 11 Home,16,LPDDR5,512 GB,15.6,"54,990","59,990",8,3.6
+HP,Intel Core i9,Windows 11 Home,24,DDR5,1 TB,16,"1,64,490","1,91,099",13,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Celeron Dual Core,Windows 11,4,DDR4,256 GB,15.6,"19,980","33,990",41,4
+ASUS,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,287","59,999",16,4.3
+HP,AMD Ryzen 5 Hexa Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"44,700","50,369",11,4.3
+HP,Intel Core i3,64 bit Windows 10,8,DDR4,512 GB,15.6,"39,690","50,299",21,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"53,490","62,415",14,4.2
+ASUS,Intel Core Ultra 7,Windows 11 Home,32,LPDDR5X,1 TB,14,"1,26,990","1,84,990",31,3.9
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+DELL,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,15.6,"54,990","66,999",17,4.1
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"58,323","79,990",27,4.2
+Lenovo,AMD Ryzen 5 Quad Core,Windows 11,8,DDR4,512 GB,15.6,"51,399","77,990",34,4.3
+HP,Intel Core 3,64 bit Windows 11 Home,24,DDR4,512 GB,15.6,"48,490","72,990",33,4.8
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Infinix,Intel Core i3,Windows 11,16,LPDDR4X,512 GB,16,"59,990",,,4.3
+Apple,Apple M4,Mac OS,16,Unified Memory,512 GB,13.6,"1,13,990","1,19,900",4,4.7
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,256 GB,15.6,"56,690","60,695",6,4
+ASUS,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"65,990","92,990",29,4.5
+Samsung,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,15.6,"1,03,199","1,37,988",25,4.6
+HP,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,15.6,"55,265","76,100",27,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,14,"39,990","55,990",28,4.3
+Lenovo,Intel Core i7,Windows 11,16,LPDDR5,1 TB,14,"89,990","1,62,290",44,4.5
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Apple,Apple M4,Mac OS,16,Unified Memory,512 GB,15.3,"1,37,990","1,44,900",4,4.9
+Acer,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"89,999",,,4.3
+HP,AMD Ryzen 5 Hexa Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"77,132",,,4.2
+HP,AMD Ryzen 5 Hexa Core,64 bit Windows 11,8,DDR5,512 GB,15.6,"41,990","74,990",44,
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,Intel Core i3,64 bit Windows 11,16,DDR4,512 GB,14,"42,990","74,990",42,3.6
+ASUS,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"57,339","69,990",18,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Lenovo,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"38,990","64,290",39,4.2
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,DDR5,512 GB,16,"68,990","92,990",25,4.3
+HP,Intel Core Ultra 5,Windows 11 Home,16,DDR5,512 GB,14,"67,990","73,871",7,
+Acer,AMD Ryzen 3 Quad Core,64 bit Windows 11,16,DDR4,512 GB,14,"39,990","39,999",,4
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,AMD Ryzen 5 Hexa Core,64 bit Windows 11,8,DDR4,256 GB,15.6,"50,990","70,990",28,4.4
+Lenovo,AMD Ryzen 3 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"37,990","64,090",40,4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Infinix,Intel Core i9,Windows 11,32,LPDDR5X,1 TB,16,"99,990","1,49,990",33,4.4
+HP,Intel Celeron Dual Core,64 bit Windows 11 Home,8,DDR4,256 GB,15.6,"30,990","40,990",24,
+DELL,Intel Core 3,64 bit Windows 11 Home,16,DDR5,512 GB,14,"45,990","78,990",41,
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"46,048","57,990",20,3.7
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,Intel Core i5,64 bit Windows 10,8,DDR4,512 GB,14,"49,950","56,999",12,
+Infinix,Intel Core i5,Windows 11,16,LPDDR5,512 GB,15.6,"59,990","79,990",25,4.1
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Infinix,Intel Core i5,Windows 11,16,LPDDR4X,512 GB,16,"43,500","64,999",33,4.3
+Apple,Apple M5,Mac OS,24,Unified Memory,1 TB,14,"1,98,990","2,09,900",5,
+DELL,AMD Ryzen 3 Dual Core,64 bit Windows 11,8,DDR4,256 GB,14.9,"36,990","47,695",22,4.2
+HP,Intel Celeron Dual Core,64 bit Windows 11,8,DDR4,256 GB,15.6,"38,990","39,990",2,4
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,Intel Celeron Dual Core,Chrome,8,LPDDR4X,,15.6,"23,990",,,4
+Acer,Intel Core i7,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"84,990","99,999",15,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+DELL,Intel Core i5,64 bit Windows 10,8,DDR4,256 GB,15.6,"49,990","84,476",40,4.1
+Acer,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR4,1 TB,15.6,"47,990","69,999",31,
+HP,AMD Ryzen AI 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,16,"1,34,990","1,62,996",17,4.6
+HP,AMD Ryzen 3 Quad Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"40,059","48,900",18,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Apple,Apple M3,Mac OS,8,Unified Memory,512 GB,13,"1,18,990","1,34,900",11,4.7
+HP,AMD Ryzen 3 Quad Core,64 bit Windows 11 Home,16,LPDDR5,512 GB,15.6,"39,790","45,000",11,3.9
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+Apple,Apple M3,Mac OS,16,Unified Memory,256 GB,13.6,"90,590","1,14,900",21,4.6
+ASUS,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,15.6,"52,990","69,990",24,4.2
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,DDR5,512 GB,16,"64,000","92,990",31,4.3
+HP,Intel Core i5,64 bit Windows 11,24,DDR4,512 GB,14,"57,990","86,990",33,
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Lenovo,Intel Celeron Dual Core,64 bit Windows 11,4,DDR4,256 GB,11.6,"27,290","38,990",30,3.7
+Acer,Intel Core i7,64 bit Windows 11 Home,16,LPDDR5,1 TB,15.6,"62,990","74,990",16,3.9
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Acer,Intel Core i7,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"94,990","94,999",,4.1
+Acer,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"71,990","79,999",10,4.3
+Lenovo,Intel Core i7,Windows 11,16,LPDDR5X,512 GB,13.9,"89,990","1,36,090",33,4.6
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4X,,14,"20,489","32,990",37,3.8
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+HP,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"80,818","95,631",15,
+HP,AMD Ryzen 7 Octa Core,Windows 11 Home,16,DDR5,1 TB,16.1,"1,37,142",,,4.4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Acer,Intel Celeron Dual Core,Chrome,8,LPDDR4X,,15.6,"23,990","33,999",29,3.8
+ASUS,Intel Core 7,Windows 11 Home,16,DDR5,512 GB,16,"92,990","1,13,990",18,4.3
+HP,Intel Celeron Dual Core,Windows 11,8,DDR4,256 GB,15.6,"38,999","39,990",2,4.2
+HP,Intel Celeron Dual Core,64 bit Windows 11,8,DDR4,256 GB,15.6,"39,990","39,999",,
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,Intel Core i3,64 bit Windows 11 Home,8,DDR4,512 GB,15.6,"38,490","50,990",24,4.2
+ASUS,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,16,"61,990","89,990",31,3.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,Intel Core i3,64 bit Windows 11,16,DDR4,512 GB,15.6,"41,990","64,990",35,5
+HP,Intel Core 5,Windows 11 Home,16,DDR4,512 GB,15.6,"62,990","74,990",16,3.8
+HP,Intel Core i7,64 bit Windows 11,8,DDR4,512 GB,15.6,"58,990","88,999",33,4.2
+ASUS,AMD Ryzen 5 Quad Core,Windows 11,8,LPDDR5,512 GB,14,"40,990","48,990",16,
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,AMD Ryzen 7 Octa Core,Windows 11,16,DDR4,512 GB,15.6,"59,970","82,990",27,4.2
+Acer,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"67,700","88,999",23,4.2
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+GIGABYTE,Intel Core i7,Windows 11,16,DDR5,1 TB,16,"1,02,990","1,62,000",36,4.6
+DELL,Intel Core 5,Windows 11,16,LPDDR5X,512 GB,14,"67,990","84,517",19,
+Samsung,Intel Core Ultra 5,64 bit Windows 11,16,LPDDR5X,512 GB,14,"1,10,990","1,51,789",26,4.4
+Infinix,Intel Core i3,Windows 11,16,LPDDR4X,512 GB,16,"59,990",,,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,Intel Core i9,Windows 11,16,LPDDR5,1 TB,15.6,"99,990","1,34,990",25,3.9
+Acer,Intel Core i9,Windows 11,16,DDR5,1 TB,16,"1,39,990","1,71,999",18,4.1
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,AMD Ryzen 7 Octa Core,Windows 11,16,DDR4,512 GB,15.6,"71,990","95,554",24,4.4
+HP,Intel Core i5,64 bit Windows 11 Home,24,DDR4,512 GB,14,"57,990","86,990",33,
+ASUS,Intel Core i5,64 bit Windows 11,16,LPDDR4X,512 GB,13.3,"72,990","1,16,990",37,4.2
+Apple,Apple M4,Mac OS,16,Unified Memory,256 GB,15.3,"1,18,990","1,24,900",4,4.7
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Infinix,Intel Core i5,64 bit Windows 11,16,LPDDR4X,512 GB,14,"47,701","64,999",26,4
+ASUS,Intel Core 5,Windows 11 Home,16,DDR4,512 GB,15.6,"55,990","73,990",24,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Lenovo,AMD Ryzen 3 Quad Core,64 bit Windows 11 Home,8,LPDDR5,512 GB,15.6,"37,999","55,242",31,4.5
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"74,990","89,990",16,4.4
+Samsung,Intel Core 5,Linux/Ubuntu,16,LPDDR4X,512 GB,15.6,"50,991","82,789",38,3.4
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,14,"59,999","86,990",31,4.4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+HP,Intel Celeron Dual Core,64 bit Windows 11,8,DDR4,256 GB,14,"35,900","37,966",5,3.8
+HP,Intel Core i3,64 bit Windows 11 Home,8,DDR4,512 GB,15.6,"39,900","49,999",20,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Celeron Dual Core,Windows 11,8,DDR4,512 GB,15.6,"36,999","38,999",5,4
+HP,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"84,990","99,527",14,4.4
+MICROSOFT,Snapdragon X Plus,64 bit Windows 11 Home,16,LPDDR5X,512 GB,12,"96,990","1,02,999",5,4.2
+HP,Intel Core i7,Windows 11,16,LPDDR5,1 TB,15.6,"1,49,588",,,4.5
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+ASUS,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"62,989","89,990",30,4.3
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,1 TB,14,"58,490","82,590",29,3.4
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+MICROSOFT,Snapdragon X Plus,Windows 11,16,LPDDR5X,256 GB,13.8,"1,15,990","1,16,999",,4.4
+HP,Intel Core i3,Windows 11 Home,16,DDR4,512 GB,15.6,"45,990","56,001",17,4.1
+HP,AMD Ryzen 7 Octa Core,64 bit Windows 11,16,DDR4,1 TB,15.6,"68,990","72,990",5,4.5
+DELL,Intel Core i3,64 bit Windows 11 Home,16,DDR5,512 GB,14,"44,990","70,990",36,4.1
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core i3,Windows 11 Home,8,DDR4,512 GB,14,"39,800","50,990",21,4.3
+Lenovo,Intel Core i7,Windows 11 Home,16,DDR5,512 GB,14,"79,990","99,790",19,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,512 GB,15.6,"75,990","89,999",15,
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"45,990","56,990",19,4.1
+ASUS,Intel Core 5,Windows 11,16,DDR4,512 GB,15.6,"58,990","79,990",26,4
+HP,AMD Ryzen 5,Windows 11 Home,8,DDR4,512 GB,15.6,"56,763","69,900",18,3.8
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+MICROSOFT,Snapdragon X Elite,Windows 11,16,LPDDR5X,256 GB,15,"1,19,990","1,42,999",16,
+DELL,Intel Core i3,64 bit Windows 11 Home,8,DDR4,512 GB,15.6,"42,548","48,868",12,4.1
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,Intel Core 3,Windows 11 Home,8,DDR4,512 GB,15.6,"41,828","50,990",17,4
+HP,AMD Ryzen 5 Hexa Core,32 bit Windows 11,8,DDR4,256 GB,15.6,"42,990","49,999",14,4.3
+HP,AMD Ryzen 3 Quad Core,64 bit Windows 11 Home,8,DDR5,512 GB,15.6,"37,800","55,990",32,3.6
+MICROSOFT,Intel Core i5,Windows 11,8,LPDDR5,256 GB,13,"1,16,999",,,4.3
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+Lenovo,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,14,"40,990","65,990",37,4.7
+MICROSOFT,Snapdragon X Plus,64 bit Windows 11 Home,16,LPDDR5X,256 GB,12,"87,990","93,999",6,4.9
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,AMD Ryzen 3 Quad Core,Windows 11,8,LPDDR5,512 GB,14,"47,990","59,990",20,4.3
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"61,990","80,990",23,4.3
+HP,Intel Core 3,64 bit Windows 11 Home,16,DDR4,512 GB,14,"43,089","60,900",29,
+Infinix,Intel Core i9,Windows 11,32,LPDDR5X,1 TB,15.6,"67,990","1,23,990",45,4
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core 3,Windows 11,8,DDR5,512 GB,14,"61,490","71,479",13,5
+Lenovo,Intel Core i3,Windows 11,8,DDR4,256 GB,15.6,"39,998","49,990",19,4.2
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"57,790","78,990",26,4.2
+MSI,Intel Core Ultra 7,Windows 11,16,LPDDR5,1 TB,13.3,"1,14,990","1,28,990",10,4.8
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"84,990","99,990",15,4.1
+ASUS,AMD Ryzen Z1 Octa Core,Windows 11,16,LPDDR5,512 GB,7,"59,815","83,990",28,4.4
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Lenovo,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"90,000","1,04,999",14,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"55,990","59,990",6,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+MSI,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"75,400","81,990",8,4.1
+Lenovo,Intel Core i3,64 bit Windows 11,16,DDR4,512 GB,15.6,"42,490","72,990",41,5
+Lenovo,Intel Core i3,Windows 11,8,LPDDR5,512 GB,15.6,"42,051","69,990",39,4.1
+HP,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"62,990","88,791",29,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+HP,AMD Ryzen 5 Hexa Core,64 bit Windows 11,16,DDR4,512 GB,15.6,"46,669","59,900",22,4
+Lenovo,Intel Core i7,Windows 11,16,DDR4,512 GB,14,"1,33,990","1,49,845",10,
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,AMD Ryzen 7 Octa Core,64 bit Windows 11,16,DDR4,512 GB,15.6,"82,990","1,07,990",23,4.4
+ASUS,Intel Core i5,Windows 11 Home,8,DDR4,512 GB,15.6,"68,999","98,999",30,
+HP,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,14,"54,490","82,990",34,
+DELL,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"39,990","49,990",20,4.2
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Core Ultra 5,Windows 11 Home,16,DDR5,512 GB,14,"82,990","98,990",16,4.3
+HP,Snapdragon X Elite,Windows 11,16,LPDDR5X,1 TB,14,"1,34,990","1,53,945",12,5
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+Primebook,MediaTek MT8788,Android,4,LPDDR4,,11.6,"24,990",,,4.2
+ASUS,Intel Celeron Dual Core,Chrome,4,LPDDR4,,11.6,"26,400","31,990",17,4
+ASUS,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,16,"72,990","1,02,990",29,4.5
+DELL,Intel Core i5,64 bit Windows 11,16,DDR4,1 TB,15,"61,990","79,999",22,4.2
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,Intel Core Ultra 9,Windows 11,16,LPDDR5X,1 TB,15.6,"1,01,499","1,52,990",33,3.9
+HP,AMD Ryzen 5,Windows 11,16,LPDDR5,512 GB,14,"63,350","1,00,671",37,
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+MICROSOFT,Snapdragon X Elite,Windows 11,16,LPDDR5X,512 GB,13.8,"1,29,990","1,54,999",16,
+MICROSOFT,Snapdragon X Elite,Windows 11,16,LPDDR5X,1 TB,15,"1,78,990","1,83,999",2,
+HP,Intel Core i7,Windows 11 Home,16,DDR4,512 GB,14,"72,990","1,13,089",35,5
+HP,AMD Ryzen 5 Hexa Core,32 bit Windows 11,8,DDR4,512 GB,15.6,"43,490","54,000",19,4.1
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+ASUS,AMD Ryzen 9 Octa Core,Windows 11,16,DDR4,1 TB,15.6,"1,30,990","1,97,999",33,4.6
+ASUS,Intel Celeron Dual Core,Chrome,8,LPDDR4X,,15.6,"28,000","38,999",28,3.7
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+MSI,Intel Core Ultra 7,64 bit Windows 11,16,DDR5,1 TB,16,"1,59,990","1,79,990",11,4.7
+WINGS,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"34,990","59,999",41,4
+MICROSOFT,Snapdragon X Elite,Windows 11,16,LPDDR5X,1 TB,13.8,"1,70,990","1,75,999",2,
+Lenovo,Intel Core i5,Windows 11,16,LPDDR5,512 GB,16,"62,991","89,990",30,2.8
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+HP,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,15.6,"38,544","59,900",35,4.2
+MICROSOFT,Snapdragon X Plus,Windows 11,16,LPDDR5X,512 GB,13.8,"1,09,990","1,34,999",18,
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+MSI,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"54,990","60,990",9,4.2
+ASUS,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,15.6,"32,990","50,990",35,4.4
+Lenovo,Intel Core i3,64 bit Windows 10,8,DDR4,512 GB,15.6,"35,997","54,990",34,4.3
+DELL,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"42,019","61,000",31,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+MSI,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,15.6,"64,199","80,990",20,4.3
+Acer,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"64,500","98,000",34,4.1
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,Intel Core i3,64 bit Windows 11,16,DDR4,512 GB,15.6,"43,990","49,999",12,4
+Lenovo,Intel Core Ultra 7,Windows 11,16,LPDDR5X,1 TB,14,"1,06,046","1,53,990",31,4.3
+Lenovo,AMD Ryzen 5 Quad Core,Windows 11,8,DDR5,512 GB,15.6,"42,582","59,999",29,3.9
+HP,AMD Ryzen 3 Dual Core,64 bit Windows 11,8,DDR4,512 GB,15.6,"39,862","46,052",13,4.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+HP,AMD Ryzen 5,64 bit Windows 11,16,DDR5,512 GB,14,"58,847","96,990",39,4.7
+ASUS,AMD Ryzen 3 Quad Core,64 bit Windows 11 Home,8,LPDDR5,512 GB,15.6,"38,001","50,990",25,
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Intel Core i5,64 bit Windows 10,8,DDR4,256 GB,15.6,"45,990","72,990",36,4.3
+Acer,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,15.6,"58,990","83,746",29,4.3
+Lenovo,AMD Ryzen 5 Hexa Core,64 bit Windows 10,8,DDR4,512 GB,15.6,"38,990","78,290",50,4
+Acer,Intel Core i7,64 bit Windows 11 Home,16,LPDDR5,512 GB,14,"74,990","1,06,999",29,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Infinix,Intel Core i5,Windows 11,16,LPDDR5X,512 GB,16,"89,990","1,29,990",30,4.5
+ASUS,Intel Core Ultra 7,Windows 11 Home,16,LPDDR5X,512 GB,14,"94,990","1,28,990",26,3.8
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core i5,Windows 11,8,DDR4,512 GB,15.6,"54,990","59,990",8,3.7
+HP,Qualcomm Snapdragon X,Windows 11,16,LPDDR5,1 TB,14,"72,990","88,226",17,
+ASUS,Intel Core Ultra 7,Windows 11,32,LPDDR5X,1 TB,14,"1,48,990","1,82,990",18,4.7
+HP,Intel Core i3,Chrome,8,LPDDR5,,15.6,"42,499","57,569",26,4.8
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+ASUS,Intel Core Ultra 7,Windows 11 Home,16,DDR5,512 GB,14,"82,990","1,10,990",25,4.5
+HP,AMD Ryzen 3 Dual Core,64 bit Windows 11,16,DDR4,512 GB,14,"43,325","49,990",13,3.3
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+DELL,AMD Ryzen 5 Hexa Core,Windows 11,16,DDR5,512 GB,14,"58,890","77,373",23,
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"55,990","69,990",20,3.8
+HP,AMD Ryzen 7 Hexa Core,Windows 11 Home,16,DDR5,512 GB,15.6,"72,990","84,838",13,5
+HP,Intel Core i3,32 bit Windows 11,8,DDR4,512 GB,14,"39,990","41,990",4,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+walker,Intel Celeron Dual Core,Windows 11,4,LPDDR4,128 GB,14.1,"30,000",,,3.7
+ASUS,AMD Ryzen 5 Quad Core,Windows 11,8,LPDDR5,512 GB,15.6,"62,990","74,990",16,4.4
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Lenovo,Intel Core i3,Windows 11,8,DDR4,512 GB,14,"42,400","49,990",15,4.2
+HP,Intel Core i5,64 bit Windows 10,8,DDR4,512 GB,15.6,"60,390","66,688",9,4.4
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"55,695","69,999",20,4.1
+MICROSOFT,Snapdragon X Elite,Windows 11,16,LPDDR5X,512 GB,15,"1,63,990","1,63,999",,
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Acer,Intel Core i7,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"75,666","99,990",24,4.3
+DELL,Intel Celeron Quad Core,64 bit Windows 11 Home,4,DDR4,256 GB,14,"32,990","41,990",21,3.6
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,Intel Core i3,64 bit Windows 11,8,DDR4,512 GB,15.6,"39,790","54,999",27,
+Acer,AMD Ryzen 7 Octa Core,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"47,990","74,990",36,4
+Lenovo,Intel Core i7,Windows 11,16,DDR5,512 GB,15.6,"1,02,990","1,46,890",29,4.2
+HP,Intel Core N,Chrome,4,LPDDR5,,14,"33,935",,,
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+ASUS,Intel Core Ultra 7,Windows 11 Home,16,DDR5,512 GB,16,"90,990","1,21,990",25,4.7
+Apple,Apple M3,Mac OS,8,Unified Memory,512 GB,13,"1,18,990","1,34,900",11,4.7
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+HP,Intel Core i5,Windows 11 Home,8,DDR4,512 GB,15.6,"60,539",,,4.2
+HP,AMD Ryzen 7 Octa Core,Windows 11 Home,16,DDR4,512 GB,15.6,"54,990","62,963",12,4.3
+Acer,Intel Core i7,64 bit Windows 11 Home,16,DDR4,512 GB,15.6,"1,09,999","1,25,599",12,4.5
+Apple,Apple M3,Mac OS,16,Unified Memory,256 GB,13.6,"90,590","1,14,900",21,4.6
+DELL,Intel Core i5,Windows 11,16,DDR5,1 TB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+Apple,Apple M3,Mac OS,16,Unified Memory,512 GB,13,"1,34,900",,,4.7
+ASUS,Intel Core Ultra 5,Windows 11,16,LPDDR5X,1 TB,16,"88,999","1,18,999",25,3.8
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core i7,64 bit Windows 11,16,LPDDR5,512 GB,14,"93,990","1,05,000",10,4.3
+Lenovo,Intel Core i3,Windows 11,8,LPDDR5,512 GB,14,"46,990","56,990",17,4.1
+ASUS,Intel Core i5,Windows 11 Home,16,DDR4,512 GB,14,"63,990","86,990",26,4.4
+DELL,Intel Core i5,64 bit Windows 11,16,DDR4,512GB,15.6,"58,578","70,900",17,4.2
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+DELL,Intel Core i5,64 bit Windows 11,16,LPDDR5,512 GB,14,"76,990","94,000",18,4
+ASUS,AMD Ryzen 9 Octa Core,64 bit Windows 10,32,DDR4,512 GB,15.6,"1,84,990","2,27,990",18,4.8
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,1 TB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,1 TB,14,"1,01,990","1,16,859",12,4.8
+ASUS,Intel Core 5,64 bit Windows 11 Home,32,DDR5,512 GB,14,"71,990","1,14,990",37,
+HP,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"39,671","49,990",20,4.2
+Acer,Intel Core Ultra 7,64 bit Windows 11 Home,16,LPDDR5,512 GB,14,"69,990","1,14,999",39,4.1
+Lenovo,Intel Core i3,Windows 11 Home,16,DDR4,1 TB,15.6,"42,990","52,990",18,4.1
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,Intel Core i3,Windows 11 Home,8,DDR5,512 GB,15.6,"40,990","49,990",18,4.2
+MICROSOFT,Snapdragon X Plus,Windows 11,16,LPDDR5X,512 GB,13,"1,34,990","1,34,999",,3.6
+DELL,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,1 TB,14,"60,990","87,704",30,
+HP,AMD Ryzen 3 Quad Core,64 bit Windows 11 Home,8,DDR4,512 GB,15.6,"37,840","49,990",24,4.1
+HP,AMD Ryzen 9 Octa Core,Windows 11,16,DDR5,512 GB,15.6,"1,19,999","1,24,319",3,4.3
+HP,AMD Ryzen 5 Hexa Core,Windows 11 Home,16,DDR4,1 TB,15.6,"50,900","69,000",26,4
+HP,AMD Ryzen 5 Hexa Core,Windows 11,8,DDR4,512 GB,15.6,"49,990","63,628",21,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+Apple,Apple M3,Mac OS,24,Unified Memory,512 GB,13.6,"1,46,990","1,54,900",5,
+HP,Intel Core i3,64 bit Windows 11 Home,8,DDR4,512 GB,15.6,"39,990","53,990",25,
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"53,191","75,990",30,
+DELL,Snapdragon X Elite,Windows 11,16,LPDDR5,512 GB,13,"1,58,990","2,01,650",21,
+HP,AMD Ryzen 3 Dual Core,Windows 11,8,DDR4,512 GB,15.6,"38,990","43,628",10,4
+ASUS,AMD Ryzen 3 Quad Core,Windows 11 Home,8,DDR4,256 GB,15.6,"42,799","45,992",6,
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+ASUS,Intel Core Ultra 7,Windows 11 Home,16,LPDDR5X,512 GB,16,"1,74,990","2,21,990",21,4.1
+HP,Intel Core i3,Windows 11,8,DDR4,1 TB,14,"38,990","54,990",29,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"78,990","1,01,709",22,4.2
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,1 TB,14,"60,990","87,704",30,
+HP,Intel Core Ultra 7,Windows 11 Home,32,LPDDR5X,512 GB,14,"1,38,000","1,60,689",14,4.6
+Acer,Snapdragon X,64 bit Windows 11 Home,16,LPDDR5X,1 TB,14,"69,990","91,999",23,4.5
+MSI,Intel Core i7,Windows 11,8,DDR4,512 GB,15.6,"61,990","83,990",26,4
+Acer,Intel Core i7,64 bit Windows 11,16,DDR4,512 GB,14,"57,990","68,990",15,4.3
+DELL,Intel Core i5,Windows 11,16,DDR4,1 TB,15.6,"56,990","64,874",12,4.3
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+MICROSOFT,Snapdragon X Plus,64 bit Windows 11,16,LPDDR5X,512 GB,12,"97,990","1,06,898",8,
+Lenovo,Intel Core i3,Windows 11,8,DDR4,256 GB,15.6,"41,990","49,990",16,4.3
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+MSI,Intel Core i7,Windows 11,16,DDR4,512 GB,14,"63,990","85,990",25,3.9
+Colorful,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"99,999",,,4.5
+ASUS,Intel Core i3,Windows 11,8,DDR4,512 GB,15.6,"45,892","55,990",18,4.3
+Lenovo,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,14,"50,990","92,990",45,
+Lenovo,AMD Ryzen 7 Octa Core,Windows 11 Home,24,DDR5,512 GB,15.6,"1,15,990","1,32,590",12,4.3
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,1 TB,14,"1,01,990","1,16,859",12,4.8
+HP,Intel Core i3,32 bit Windows 11,8,DDR4,512 GB,14,"39,938","43,799",8,
+ASUS,Intel Core i3,64 bit Windows 11 Home,8,DDR4,512 GB,14,"41,799","49,999",16,
+DELL,Snapdragon X,Windows 11 Home,16,LPDDR5X,512 GB,14,"60,990","87,704",30,
+ASUS,Intel Core 5,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"64,990","89,990",27,4.2
+ASUS,Intel Core i5,Windows 11,16,DDR4,512 GB,16,"79,164","99,990",20,4.1
+Apple,Apple M4,Mac OS,16,Unified Memory,512 GB,15.3,"1,37,990","1,44,900",4,4.6
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"55,990","68,299",18,
+Acer,AMD Ryzen 7 Octa Core,Windows 11,16,DDR5,512 GB,15.6,"77,999","98,999",21,4.2
+DELL,Intel Core Ultra 5,Windows 11 Home,16,LPDDR5X,512 GB,14,"77,990","98,040",20,4.3
+DELL,Intel Core i5,Windows 11,16,DDR5,512 GB,15.6,"78,990","1,01,709",22,4.2
+DELL,Intel Core Ultra 7,Windows 11 Home,16,LPDDR5X,1 TB,13.3,"1,10,490","1,20,000",7,2.7
+ASUS,AMD Ryzen 3 Quad Core,Windows 11,8,LPDDR5,1 TB,14,"39,938","45,990",13,4.4
+DELL,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"50,490","63,416",20,4.2
+DELL,Intel Core i5,Windows 11,16,DDR4,512 GB,15.6,"56,990","64,874",12,4.3
+Lenovo,Intel Core i7,Windows 11,16,DDR4,512 GB,16,"1,24,499","1,62,373",23,
+Lenovo,Intel Core i5,64 bit Windows 11,8,DDR4,1 TB,15.6,"49,399","77,990",36,4.1
+HP,Intel Core Ultra 5,Windows 11,16,LPDDR5,512 GB,16,"79,990","89,000",10,4.3
+HP,Intel Core i5,64 bit Windows 11,8,DDR4,512 GB,15.6,"53,690","64,400",16,3.6
+ASUS,Intel Core 7,64 bit Windows 11 Home,16,DDR5,512 GB,15.6,"76,990","99,990",23,4.2
+DELL,Intel Core Ultra 7,Windows 11,16,LPDDR5X,512 GB,14,"1,01,990","1,16,859",12,4.8
+ASUS,AMD Ryzen 7 Octa Core,64 bit Windows 11,16,DDR4,512 GB,15.6,"87,600","98,990",11,4.1
+HP,Intel Core i5,64 bit Windows 11,16,DDR4,512 GB,15.6,"54,143","62,990",14,4.3
+DELL,Intel Core Ultra 5,Windows 11,16,LPDDR5X,512 GB,14,"90,490","1,02,656",11,4.3
+DELL,Intel Core i7,Windows 11,16,DDR4,512 GB,15.6,"68,990","73,911",6,4.3
+DELL,Intel Core i5,Linux/Ubuntu,16,DDR4,512 GB,14,"59,989","79,990",25,3.7
+HP,Intel Core i5,Windows 11 Home,8,DDR4,512 GB,15.6,"74,990","78,500",4,3.6
