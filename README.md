@@ -64,14 +64,17 @@ Features Included:
 ### 📉 Statistical Analysis
 #### ✔️ 1. Brand vs Price (ANOVA Test)
 Result: Significant impact
+
 Conclusion: Laptop prices vary across brands
 
 #### ✔️ 2. RAM vs Price (Correlation Test)
 Correlation: ~0.64 (Positive)
+
 Conclusion: Higher RAM leads to higher price
 
 #### ❌ 3. Display Size vs Price
 Result: No significant relationship
+
 Conclusion: Display size does not influence pricing
 
 ### 📊 Key Insights
