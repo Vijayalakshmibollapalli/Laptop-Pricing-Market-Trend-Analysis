@@ -14,6 +14,7 @@ This project involves web scraping, data cleaning, exploratory data analysis (ED
 
 ### 🗂️ Dataset Overview
 Total Records: 984 laptop variants
+
 Features Included:
 * Brand
 * Processor
