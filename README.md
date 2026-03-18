@@ -114,5 +114,4 @@ Through this project, I gained hands-on experience in:
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
 * Statistical analysis and hypothesis testing
-
-Deriving business insights from real-world data
+* Deriving business insights from real-world data
